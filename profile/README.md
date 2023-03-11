@@ -3,7 +3,8 @@
 Welcome to [Datadeft](https://www.datadeft.eu)!
 
 
-![OG](https://www.datadeft.eu/img/og/og.jpg)
+<img src="https://www.datadeft.eu/img/og/og.jpg" alt="Datadeft" width=512>
+
 <!--
 
 **Here are some ideas to get you started:**

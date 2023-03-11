@@ -2,6 +2,8 @@
 
 Welcome to [Datadeft](https://www.datadeft.eu)!
 
+
+![OG](https://www.datadeft.eu/img/og/og.jpg)
 <!--
 
 **Here are some ideas to get you started:**
